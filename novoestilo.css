@@ -1,0 +1,29 @@
+#inicio {
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-preto-antigo-textura-do-grunge-papel-de-parede-escuro-quadro-negro-quadro-negro-parede-da-sala_1258-28313.jpg?w=996&t=st=1666828128~exp=1666828728~hmac=bf6212ca447c778ca83584bb802929ddd76296502045cdebab4c5c2e1c27be64");
+    min-width: 500px;
+    color: white;
+    padding: 150px 40px;
+    font-size: 150px;
+}
+#inicio h1 {
+    font-size: 60px;
+}
+#inicio p {
+    font-size: 40px;
+}
+    
+#cursos {
+    padding: 40px 0px;
+}
+#perguntas {
+    padding: 40px 0px;
+    background-color:#c6c6c6;
+    min-height: 400px;
+ }
+ #contato {
+    padding: 40px 0px;
+    background-color:#222222;
+    min-height: 400px;
+    color:white; 
+
+ }
